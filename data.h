@@ -1,6 +1,4 @@
 #include <vector>
 #include <string>
 
-std::vector<std::string> encryptedCommands = {
-
-};
+std::vector<std::string> encryptedCommands = {};

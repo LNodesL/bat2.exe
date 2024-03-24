@@ -1,4 +1,5 @@
 #include <string>
+
 // Simple XOR encryption
 std::string xorEncryptDecrypt(const std::string& input, char key) {
     std::string output = input;
